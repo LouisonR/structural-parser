@@ -1,9 +1,8 @@
-[!logo](images/parser.png)
+
 
 ### PDF Parser
 **Purpose**: Extract a structured content of a file
-
-Note: Entity = Chapter, article, sub-chapter...
+[!logo](images/parser.png)
 
 ## Entity class
 * level (int): in the content structure (highest level: 0)
@@ -13,6 +12,7 @@ Note: Entity = Chapter, article, sub-chapter...
 * sub-entities (Entity)
 * parent-entity (Entity)
 * source (string): path from top to the entity
+
 
 ## Architecture
 * Extraction folder
