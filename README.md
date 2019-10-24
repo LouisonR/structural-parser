@@ -1,8 +1,7 @@
-
-
-### PDF Parser
+### Structural Parser
 **Purpose**: Extract a structured content of a file
-[!logo](images/parser.png)
+
+![logo](images/parser.png)
 
 ## Entity class
 * level (int): in the content structure (highest level: 0)
